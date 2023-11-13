@@ -12,7 +12,7 @@ The code uses the Labeled Faces in the Wild (LFW) dataset, which is deepfunneled
     pip install numpy matplotlib tensorflow imageio
     ```
 
-2. Download the LFW dataset and extract it to the specified folder.
+2. Download the LFW dataset and extract it to the specified folder OR other datasets can also be used just remember to change the shape accordingly.
 
 3. Open the Jupyter notebook and run each cell sequentially. Make sure to adjust parameters like `EPOCHS`, `BUFFER_SIZE`, `BATCH_SIZE`, and others based on your preferences.
 
